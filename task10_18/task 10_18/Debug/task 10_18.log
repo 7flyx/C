@@ -1,0 +1,7 @@
+﻿  源.c
+E:\vs代码学习\task 10_18\task 10_18\源.c(15,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+E:\vs代码学习\task 10_18\task 10_18\源.c(19,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+E:\vs代码学习\task 10_18\task 10_18\源.c(23,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+E:\vs代码学习\task 10_18\task 10_18\源.c(27,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+E:\vs代码学习\task 10_18\task 10_18\源.c(31,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+  task 10_18.vcxproj -> E:\vs代码学习\task 10_18\Debug\task 10_18.exe
