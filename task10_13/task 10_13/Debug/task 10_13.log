@@ -1,0 +1,14 @@
+﻿  源.c
+E:\vs代码学习\task 10_13\task 10_13\源.c(64,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+E:\vs代码学习\task 10_13\task 10_13\源.c(64,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“char *”
+E:\vs代码学习\task 10_13\task 10_13\源.c(64,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 5 拥有了类型“int”
+E:\vs代码学习\task 10_13\task 10_13\源.c(64,79): warning C4474: printf: 格式字符串中传递的参数太多
+E:\vs代码学习\task 10_13\task 10_13\源.c(64,79): message : 占位符和其参数预计 5 可变参数，但提供的却是 6 参数
+E:\vs代码学习\task 10_13\task 10_13\源.c(78,11): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+E:\vs代码学习\task 10_13\task 10_13\源.c(78,11): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“char *”
+E:\vs代码学习\task 10_13\task 10_13\源.c(78,11): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 5 拥有了类型“int”
+E:\vs代码学习\task 10_13\task 10_13\源.c(78,80): warning C4474: printf: 格式字符串中传递的参数太多
+E:\vs代码学习\task 10_13\task 10_13\源.c(78,80): message : 占位符和其参数预计 5 可变参数，但提供的却是 6 参数
+E:\vs代码学习\task 10_13\task 10_13\源.c(46): error C4700: 使用了未初始化的局部变量“n”
+E:\vs代码学习\task 10_13\task 10_13\源.c(59): error C4700: 使用了未初始化的局部变量“n”
+E:\vs代码学习\task 10_13\task 10_13\源.c(115): error C4703: 使用了可能未初始化的本地指针变量“p2”
