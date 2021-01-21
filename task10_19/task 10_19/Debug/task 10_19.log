@@ -1,0 +1,4 @@
+﻿  源.c
+E:\vs代码学习\task 10_19\task 10_19\源.c(12,30): warning C4047: “函数”:“char *”与“int”的间接级别不同
+E:\vs代码学习\task 10_19\task 10_19\源.c(12,28): warning C4024: “my_strlen”: 形参和实参 1 的类型不同
+  task 10_19.vcxproj -> E:\vs代码学习\task 10_19\Debug\task 10_19.exe
