@@ -1,0 +1,4 @@
+﻿  源.c
+E:\vs代码学习\日常联习\test\21.task2_15-2\21.task2_15-2\源.c(18,29): warning C4013: “malloc”未定义；假设外部返回 int
+E:\vs代码学习\日常联习\test\21.task2_15-2\21.task2_15-2\源.c(54,10): warning C4013: “free”未定义；假设外部返回 int
+  21.task2_15-2.vcxproj -> E:\vs代码学习\日常联习\test\21.task2_15-2\Debug\21.task2_15-2.exe
