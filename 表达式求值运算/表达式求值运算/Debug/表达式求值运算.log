@@ -1,0 +1,8 @@
+﻿  表达式求值运算.c
+E:\vs代码学习\日常联习\test\表达式求值运算\表达式求值运算\表达式求值运算.c(100,3): warning C4033: “GetTop”必须返回值
+E:\vs代码学习\日常联习\test\表达式求值运算\表达式求值运算\表达式求值运算.c(434,6): warning C4013: “gets”未定义；假设外部返回 int
+E:\vs代码学习\日常联习\test\表达式求值运算\表达式求值运算\表达式求值运算.c(435,29): warning C4013: “evaluateExpression”未定义；假设外部返回 int
+E:\vs代码学习\日常联习\test\表达式求值运算\表达式求值运算\表达式求值运算.c(104): warning C4715: “GetTop”: 不是所有的控件路径都返回值
+E:\vs代码学习\日常联习\test\表达式求值运算\表达式求值运算\表达式求值运算.c(203): warning C4715: “calculate”: 不是所有的控件路径都返回值
+表达式求值运算.obj : error LNK2019: 无法解析的外部符号 _evaluateExpression，函数 _main 中引用了该符号
+E:\vs代码学习\日常联习\test\表达式求值运算\Debug\表达式求值运算.exe : fatal error LNK1120: 1 个无法解析的外部命令
