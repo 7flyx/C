@@ -1,0 +1,113 @@
+﻿  哈夫曼编码.c
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vadefs.h(63,30): error C2054: 在“哈夫曼编码”之后应输入“(”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vadefs.h(63,39): error C2085: “uintptr_t”: 不在形参表中
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vadefs.h(72,30): error C2085: “va_list”: 不在形参表中
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime.h(61,26): warning C4081: 应输入“)”；找到“字符串”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime.h(96,1): warning C4079: 意外的标记“字符串”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime.h(96,1): warning C4081: 应输入“newline”；找到“)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime.h(197,36): error C2085: “size_t”: 不在形参表中
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime.h(198,39): error C2085: “ptrdiff_t”: 不在形参表中
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime.h(199,38): error C2085: “intptr_t”: 不在形参表中
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime.h(209,30): error C2085: “__vcrt_bool”: 不在形参表中
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime.h(228,35): error C2085: “wchar_t”: 不在形参表中
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime.h(342,46): error C2085: “__security_init_cookie”: 不在形参表中
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime.h(345,64): error C2146: 语法错误: 缺少“)”(在标识符“_StackCookie”的前面)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime.h(345,64): error C2085: “__security_check_cookie”: 不在形参表中
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime.h(345,64): error C2146: 语法错误: 缺少“,”(在标识符“_StackCookie”的前面)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime.h(345,76): error C2059: 语法错误:“)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime.h(346,67): error C2085: “__report_gsfailure”: 不在形参表中
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime.h(353,18): error C2085: “uintptr_t”: 不在形参表中
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime.h(353,18): error C2146: 语法错误: 缺少“,”(在标识符“__security_cookie”的前面)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime.h(361,1): warning C4161: #pragma pack(pop...): 出栈的比入栈的多
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt.h(12,1): warning C4079: 意外的标记“字符串”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt.h(12,1): warning C4081: 应输入“newline”；找到“)”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt.h(156,29): error C2085: “__crt_bool”: 不在形参表中
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt.h(270,28): error C2143: 语法错误: 缺少“)”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt.h(270,28): error C2085: “_invalid_parameter”: 不在形参表中
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt.h(270,28): error C2143: 语法错误: 缺少“;”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt.h(275,9): error C2059: 语法错误:“)”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt.h(283,24): error C2143: 语法错误: 缺少“)”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt.h(283,24): error C2143: 语法错误: 缺少“{”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt.h(284,24): error C2143: 语法错误: 缺少“;”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt.h(287,35): error C2059: 语法错误:“)”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt.h(561,20): error C2061: 语法错误: 标识符“rsize_t”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt.h(561,20): error C2059: 语法错误:“;”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt.h(2010,1): warning C4161: #pragma pack(pop...): 出栈的比入栈的多
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(57,25): error C2146: 语法错误: 缺少“)”(在标识符“_Character”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(57,25): error C2061: 语法错误: 标识符“_Character”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(57,25): error C2059: 语法错误:“;”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(57,35): error C2059: 语法错误:“,”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(58,32): error C2059: 语法错误:“)”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(62,22): error C2146: 语法错误: 缺少“)”(在标识符“_Character”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(62,22): error C2061: 语法错误: 标识符“_Character”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(62,22): error C2059: 语法错误:“;”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(63,9): error C2059: 语法错误:“)”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(76,21): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(77,45): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(77,45): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(78,47): error C2059: 语法错误:“类型”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(80,9): error C2059: 语法错误:“)”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(84,25): error C2143: 语法错误: 缺少“)”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(84,25): error C2143: 语法错误: 缺少“{”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(84,32): error C2373: “_Buffer”: 重定义；不同的类型修饰符
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(77): message : 参见“_Buffer”的声明
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(85,17): error C2373: “FILE”: 重定义；不同的类型修饰符
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(28): message : 参见“FILE”的声明
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(85,21): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(86,9): error C2059: 语法错误:“)”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(90,21): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(91,45): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(91,45): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(92,47): error C2146: 语法错误: 缺少“;”(在标识符“_BufferCount”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(93,9): error C2059: 语法错误:“)”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(103,25): error C2146: 语法错误: 缺少“)”(在标识符“_Character”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(103,25): error C2061: 语法错误: 标识符“_Character”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(103,25): error C2059: 语法错误:“;”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(103,35): error C2059: 语法错误:“,”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(105,9): error C2059: 语法错误:“)”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(109,22): error C2146: 语法错误: 缺少“)”(在标识符“_Character”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(109,22): error C2061: 语法错误: 标识符“_Character”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(109,22): error C2059: 语法错误:“;”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(110,9): error C2059: 语法错误:“)”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(114,24): error C2143: 语法错误: 缺少“)”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(114,24): error C2143: 语法错误: 缺少“{”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(115,9): error C2059: 语法错误:“)”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(114,31): error C2373: “_Buffer”: 重定义；不同的类型修饰符
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(91): message : 参见“_Buffer”的声明
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(126,24): error C2143: 语法错误: 缺少“)”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(126,24): error C2081: “wchar_t”: 形参表中的名称非法
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(126,24): error C2143: 语法错误: 缺少“{”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(127,9): error C2059: 语法错误:“)”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(131,24): error C2143: 语法错误: 缺少“)”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(131,24): error C2143: 语法错误: 缺少“{”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(132,24): error C2143: 语法错误: 缺少“;”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(133,9): error C2059: 语法错误:“)”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(138,43): error C2143: 语法错误: 缺少“)”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(138,43): error C2081: “wchar_t”: 形参表中的名称非法
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(138,43): error C2143: 语法错误: 缺少“{”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(139,43): error C2143: 语法错误: 缺少“;”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(140,9): error C2059: 语法错误:“)”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(145,25): error C2143: 语法错误: 缺少“)”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(145,25): error C2143: 语法错误: 缺少“{”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(146,25): error C2143: 语法错误: 缺少“;”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(148,9): error C2059: 语法错误:“)”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(153,43): error C2143: 语法错误: 缺少“)”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(153,43): error C2081: “wchar_t”: 形参表中的名称非法
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(153,43): error C2143: 语法错误: 缺少“{”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(154,43): error C2143: 语法错误: 缺少“;”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(156,9): error C2059: 语法错误:“)”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(160,24): error C2143: 语法错误: 缺少“)”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(160,24): error C2143: 语法错误: 缺少“{”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(161,24): error C2143: 语法错误: 缺少“;”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(163,9): error C2059: 语法错误:“)”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(166,28): error C2143: 语法错误: 缺少“)”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(166,28): error C2143: 语法错误: 缺少“{”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(167,9): error C2059: 语法错误:“)”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(173,28): error C2143: 语法错误: 缺少“)”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(173,28): error C2143: 语法错误: 缺少“{”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(174,28): error C2143: 语法错误: 缺少“;”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(175,13): error C2059: 语法错误:“)”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(180,24): error C2143: 语法错误: 缺少“)”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(180,24): error C2143: 语法错误: 缺少“{”(在“const”的前面)
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(181,9): error C2059: 语法错误:“)”
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h(181,9): fatal error C1003: 错误计数超过 100；正在停止编译
