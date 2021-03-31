@@ -1,0 +1,5 @@
+﻿  源.cpp
+E:\vs代码学习\日常联习\test\21.task3_31\21.task3_31\源.cpp(18,9): warning C4101: “y”: 未引用的局部变量
+E:\vs代码学习\日常联习\test\21.task3_31\21.task3_31\源.cpp(18,6): warning C4101: “x”: 未引用的局部变量
+E:\vs代码学习\日常联习\test\21.task3_31\21.task3_31\源.cpp(18,12): warning C4101: “w”: 未引用的局部变量
+  21.task3_31.vcxproj -> E:\vs代码学习\日常联习\test\21.task3_31\Debug\21.task3_31.exe
