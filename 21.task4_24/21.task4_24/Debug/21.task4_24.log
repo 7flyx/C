@@ -1,0 +1,4 @@
+﻿  二叉排序树.c
+E:\vs代码学习\日常联习\test\21.task4_24\21.task4_24\二叉排序树.c(17,16): warning C4013: “searchBST”未定义；假设外部返回 int
+E:\vs代码学习\日常联习\test\21.task4_24\21.task4_24\二叉排序树.c(122): warning C4715: “Delete”: 不是所有的控件路径都返回值
+  21.task4_24.vcxproj -> E:\vs代码学习\日常联习\test\21.task4_24\Debug\21.task4_24.exe
