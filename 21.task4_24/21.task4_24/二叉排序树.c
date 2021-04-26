@@ -28,7 +28,7 @@ int insertBST(BiTree* T, int key)
 			//需要存储的数据元素比当前的结点元素要小，所以存储在该结点的左边
 			p->lchild = s;
 		else
-			//相反的就是比当亲结点的元素大，存储在右边
+			//相反的就是比当前结点的元素大，存储在右边
 			p->rchild = s;
 	}
 	else
