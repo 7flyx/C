@@ -1,0 +1,3 @@
+﻿  源.c
+E:\vs代码学习\日常联习\test\21.task5_3\21.task5_3\源.c(48,6): warning C4013: “gets”未定义；假设外部返回 int
+  21.task5_3.vcxproj -> E:\vs代码学习\日常联习\test\21.task5_3\Debug\21.task5_3.exe
